@@ -51,12 +51,5 @@ As the water level rises, the LEDs turn on in sequence to show the current level
 ## Results
 The completed circuit operated as a three-stage water level indicator. As water rose and reached each sensing probe, the corresponding LED turned on in sequence. The outputs remained stable during normal operation, indicating that the transistor switching behavior and current limiting were functioning as intended.
 
-## Future Improvements
-- Add a buzzer for an audible “full tank” alert
-- Add corrosion-resistant probes
-- Improve enclosure and probe mounting
-- Add pump control or relay-based automation
-- Add hysteresis or filtering for noisier sensing environments
-
 ## Notes
 This project was originally developed as a Circuit Theory I course project and later cleaned up for portfolio use.
